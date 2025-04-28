@@ -72,4 +72,4 @@ Follow these steps to set up and run Highland Time Harmony:
    - Test with sample inputs and refine the design.
    - Publish and share the application.
 
-Note: Link to my app: [title](https://partyrock.aws/u/ferrindsouza/0wWbBEX7R/Highland-Time-Harmony%3A-Catholic-Productivity-Planner)
+*Note: Link to my app: [PartyRock_TaskScheduler](https://partyrock.aws/u/ferrindsouza/0wWbBEX7R/Highland-Time-Harmony%3A-Catholic-Productivity-Planner)*
